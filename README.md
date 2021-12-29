@@ -61,11 +61,6 @@ $ bash zphisher.sh
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
 
-### Run on Docker
-```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
-```
 
 ### Dependencies
 
